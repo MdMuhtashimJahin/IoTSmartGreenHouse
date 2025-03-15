@@ -5,6 +5,8 @@ automation to optimize plant health, environmental conditions, and
 safety. It utilizes MQTT, Node-RED, and edge computing for seamless,
 secure, and remotely accessible operations.
 
+![Project Over view](https://github.com/user-attachments/assets/f3a4b7a2-f8b3-4eea-b354-c6328468607f)
+
 Key Features & Technologies:  
  🌱 Smart Irrigation System -- Soil moisture sensor-driven automation triggers a low-power water pump via ESP32,
 ensuring precise hydration.   
