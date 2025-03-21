@@ -17,6 +17,6 @@ Intelligent Fire Detection -- ESP32-powered fire sensor continuously monitors fo
 hazards, triggering instant alerts for proactive risk mitigation.   
 IoT Connectivity with ESP32, MQTT & Node-RED -- ESP32 acts as the central IoT controller, managing real-time data flow via MQTT and enabling
 remote monitoring & automation through Node-RED dashboards.   
-Secure IoT Architecture -- Implements encrypted MQTT protocols and network security best practices, ensuring secure communication between devices.  
+Secure IoT Architecture -- Implements encrypted MQTT protocols (TLS) and network security best practices, ensuring secure communication between devices.  
 Energy-Efficient & Scalable Automation -- Optimized for low power consumption, designed to be modular, scalable, and adaptable for various
 smart agriculture and industrial IoT applications.
